@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  vertical-align: center;
+  background-image: url("../img/fondo-vintage.jpg");
+  font-family: 'Lobster Two', cursive;
+  font-size: 30px;
+}
+
+input{
+  width: 200px;
+  height: 30px;
+}
+
+div{
+  padding: 5px;
+}
+
+button{
+  width: 250px;
+  height: 60px;
+  font-family: 'Lobster Two', cursive;
+  background-color: #c2b4bf;
+  color: #ffffff;,
+}
+
+footer{
+  background-color: #c2b4bf;
+  padding: 10px;
+}
