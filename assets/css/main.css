@@ -1,28 +1,33 @@
 body{
   text-align: center;
+  padding-top: 100px;
   background-image: url("../img/fondo-vintage.jpg");
+  background-size: 1350px 750px;
   font-family: 'Lobster Two', cursive;
-  font-size: 30px;
+  font-size: 35px;
 }
 
 input{
-  width: 200px;
-  height: 30px;
+  width: 270px;
+  height: 40px;
+  font-size: 25px;
 }
 
 div{
-  padding: 5px;
+  padding: 10px;
 }
 
 button{
-  width: 250px;
-  height: 60px;
+  width: 300px;
+  height: 80px;
   font-family: 'Lobster Two', cursive;
   background-color: #c2b4bf;
-  color: #ffffff;,
+  color: #ffffff;
+  font-size: 50px;
 }
 
 footer{
   background-color: #c2b4bf;
-  padding: 10px;
+  margin-top: 170px;
+  color:
 }
